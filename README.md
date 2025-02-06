@@ -23,6 +23,7 @@ This repository contains Python solutions for common coding challenges, data str
 - ❌ **Arrays**
 - ✅ **Strings**
    - _Reverse String_  
+   - _Check Palindrome_
 - ❌ **Linked Lists**  
 - ❌ **Recursion**  
 - ❌ **Sorting & Searching**  
