@@ -21,7 +21,7 @@ This repository contains Python solutions for common coding challenges, data str
 
 ## 📝 Topics Covered  
 ❌ Arrays  
-❌ Strings  
+✅ Strings  
 ❌ Linked Lists  
 ❌ Recursion  
 ❌ Sorting & Searching  
