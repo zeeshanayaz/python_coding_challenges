@@ -20,14 +20,17 @@ This repository contains Python solutions for common coding challenges, data str
    ```
 
 ## 📝 Topics Covered  
-❌ Arrays  
-✅ Strings  
-❌ Linked Lists  
-❌ Recursion  
-❌ Sorting & Searching  
-❌ Dynamic Programming  
-❌ Graphs & Trees  
-✅ Math & Bit Manipulation  
+- ❌ **Arrays**
+- ✅ **Strings**
+   - _Reverse String_  
+- ❌ **Linked Lists**  
+- ❌ **Recursion**  
+- ❌ **Sorting & Searching**  
+- ❌ **Dynamic Programming**  
+- ❌ **Graphs & Trees**  
+- ✅ **Math & Bit Manipulation**
+   - _Binary Gap_
+   - _Power of 2_
 
 ## 💡 Contribution  
 Feel free to fork this repository and contribute by adding solutions or improving existing ones!  
