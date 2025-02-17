@@ -21,6 +21,8 @@ This repository contains Python solutions for common coding challenges, data str
 
 ## 📝 Topics Covered  
 - ❌ **Arrays**
+- ✅ **Numbers**
+   - _Check Prime Number_  
 - ✅ **Strings**
    - _Reverse String_  
    - _Check Palindrome_
